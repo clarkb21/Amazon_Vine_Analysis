@@ -29,7 +29,8 @@
 - Vine members had 5-star reviews approximately 40.7% of the time. 
 - Non-vine members had 5-star reviews approximately 54.9% of the time. 
 
-![image](https://user-images.githubusercontent.com/104038813/191538149-0d064645-424f-4ffa-8120-8e739efd4530.png)
+![image](https://user-images.githubusercontent.com/104038813/191538395-f55a680b-0307-4660-ba4f-29377f1f1296.png)
+
 
 
 ## Summary
