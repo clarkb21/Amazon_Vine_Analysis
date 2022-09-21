@@ -21,6 +21,10 @@
 - Vine members had a total of 24,171 reviews in the dataset. 
 - Non-Vine members had a total of 3,456,395 reviews.
 
+**2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?**
+- Vine members had 9,833 5-star reviews.
+- Non-Vine members had 1,898,455 5-star reviews.
+
 
 
 ## Summary
