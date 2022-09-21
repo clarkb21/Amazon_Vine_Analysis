@@ -22,7 +22,7 @@
 
 
 ## Resources
-- Data Source: 
+- Data Source: "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz"
 - Software:  pgAdmin 4, Google Colab Notebook, PySpark
 - MSU Bootcamp Spot Module 16: https://courses.bootcampspot.com/courses/2508/assignments/31932?module_item_id=637495
 
