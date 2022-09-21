@@ -25,6 +25,11 @@
 - Vine members had 9,833 5-star reviews.
 - Non-Vine members had 1,898,455 5-star reviews.
 
+**3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?**
+- Vine members had 5-star reviews approximately 40.7% of the time. 
+- Non-vine members had 5-star reviews approximately 54.9% of the time. 
+
+![image](https://user-images.githubusercontent.com/104038813/191538149-0d064645-424f-4ffa-8120-8e739efd4530.png)
 
 
 ## Summary
