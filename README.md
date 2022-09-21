@@ -18,8 +18,8 @@
 
 ## Results
 **1. How many Vine reviews and non-Vine reviews were there?**
-a. Vine members had a total of 24,171 reviews in the dataset. 
-b. Non-Vine members had a total of 3,456,395 reviews.
+i. Vine members had a total of 24,171 reviews in the dataset. 
+ii. Non-Vine members had a total of 3,456,395 reviews.
 
 
 
