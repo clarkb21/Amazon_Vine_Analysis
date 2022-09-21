@@ -3,6 +3,7 @@
 ## Purpose
 - The purpose of this project is to demonstrate skills using Spark, Google Colab, and Big Data information. 
 - Data was extracted from Amazon Web Services S3 Buckets into a Google Colab Notebook, transformed using PySpark, and then loaded into a PostgreSQL database.
+- The main purpose of the challenge was to determine if there is any bias with Vine reviewers versus non-Vine members.
 
 ## Project Overview
 - Key concepts on "Big Data" were introduced, including Spark, Hadoop, Amazon Web Servies (AWS), and MapReduce.
@@ -16,6 +17,10 @@
 - That information was then used to determine if there is any bias in the reviews from Vine members. 
 
 ## Results
+**1. How many Vine reviews and non-Vine reviews were there?**
+a. Vine members had a total of 24,171 reviews in the dataset. 
+b. Non-Vine members had a total of 3,456,395 reviews.
+
 
 
 ## Summary
