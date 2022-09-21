@@ -31,10 +31,16 @@
 
 ![image](https://user-images.githubusercontent.com/104038813/191538395-f55a680b-0307-4660-ba4f-29377f1f1296.png)
 
-
-
 ## Summary
+- Based on the results, Vine members are less likely to rate items with 5-star reviews than their non-member counterparts. 
+- Vine members, who do not have to pay for the items and are striclty there to provide accurate reviews, only gave 5-star reviews 40% of the time. 
+- Non-Vine members, who purchased the items because they wanted or needed the item, gave them 5-stars over half the time.
+- Vine members do not have favorable bias towards these items solely because they are a Vine review member.
 
+#### Additional Analysis
+- With the given dataset, another analysis that could be done to show the rate of 5-star reviews would be to look at the Verified purchase column. 
+- Vine members do not pay for the items, but receive them solely to give accurate reviews. 
+- An additional query could have been done to filter on the verified purchase column for non-Vine members to see the difference between 5-star reviews for customers who actually bought the item and those that did not. 
 
 ## Resources
 - Data Source: "https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Sports_v1_00.tsv.gz"
